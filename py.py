@@ -25,4 +25,4 @@ print(5+9)
 #new functions
 a= b+c
 b= b*2
-a=c+d  #Vaishnavi
+# pranav.commented
