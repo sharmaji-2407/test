@@ -25,4 +25,7 @@ print(5+9)
 #new functions
 a= b+c
 b= b*2
-# pranav.commented
+import time     #Anuj
+for i in range(0,5):
+  print(i)
+  time.sleep(2)
