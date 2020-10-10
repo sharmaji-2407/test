@@ -1,6 +1,9 @@
 import math
 print("Hello World")
-num = math.sqrt(4)
+num = math.sqrt(3)
 print(num)
-print("Pranav's edit done!")
-
+ok
+cant print
+print("EDIT")
+print("hello DEvs")
+print("hello DEvs")
