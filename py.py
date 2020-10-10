@@ -11,6 +11,9 @@ a = 10
 b = 20 
 c= a+b
 print(c)
+d=23
+e=c*d
+print(e)
 import calendar
 print(calendar.calendar(2020))
-print('hello') 
+
