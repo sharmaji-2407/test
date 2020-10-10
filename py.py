@@ -22,3 +22,6 @@ asdasdasds
 logx = log(2)
 main stuff 
 print(5+9)
+#new functions
+a= b+c
+b= b*2
