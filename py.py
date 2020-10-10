@@ -6,7 +6,6 @@ ok
 cant print
 print("EDIT")
 print("hello DEvs")
-print("hello DEvs")
 a = 10
 b = 20 
 c= a+b
@@ -19,5 +18,7 @@ print(calendar.calendar(2020))
 d = a/b
 print("New version ")
 print("hello DEvs")
+asdasdasds
+logx = log(2)
 main stuff 
 print(5+9)
