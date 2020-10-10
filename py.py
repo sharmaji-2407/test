@@ -20,4 +20,4 @@ d = a/b
 print("New version ")
 print("hello DEvs")
 asdasdasds
-
+logx = log(2)
