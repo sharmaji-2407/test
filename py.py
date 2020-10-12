@@ -30,5 +30,13 @@ for i in range(0,5):
   print(i)
   time.sleep(2)
 #PRanav Commented again!
+
 #Sakshi commented here!
 #Vaishnavi commented here
+
+n=int(input("enter number:"))     #Anuj
+res=1
+while n>1:
+  res*=(n)
+  n-=1
+print (res)
