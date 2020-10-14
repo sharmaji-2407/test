@@ -40,3 +40,5 @@ while n>1:
   res*=(n)
   n-=1
 print(res)
+if n==0:
+  print("factorial of 0 is:1")
